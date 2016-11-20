@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="tab_text">16dp</dimen>
+    <dimen name="tab_wheel_width">10dp</dimen>
+    <dimen name="tab_wheel_padding_bottom">130dp</dimen>
+    <dimen name="tab_wheel_padding_outer">30dp</dimen>
+    <dimen name="tab_wheel_padding_inner">20dp</dimen>
+    <dimen name="tab_pointer_radius">10dp</dimen>
+</resources>
